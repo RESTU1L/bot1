@@ -1,9 +1,9 @@
 {
-     "prefix": "!",
+     "prefix": ".",
      "namalu" : "AlyaaXd",
-     "nomerlu": "6289505165400",
-     "namabot": "AlyaaXd",
-     "nomerbot": "6285730903853",
+     "nomerlu": "6289696163176",
+     "namabot": "R Xd",
+     "nomerbot": "6289696163176",
      "gender" : "Cewek",
      "copyright" : "AlyaBotXd",
      "Shopee" : "_•",
@@ -35,7 +35,7 @@
      "teksChat" : "Gada menu",
      "totalForward" : 1000000,
      "gamewaktu": 60,
-	 "limitCount": 30,
+	 "limitCount": 80,
 	 "gcount": {
 		"prem": 30,
 		"user": 20
